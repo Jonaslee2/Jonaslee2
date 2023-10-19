@@ -2,6 +2,7 @@
 
 
 ### Olá! Eu sou o Jônatas 🧑🏻
+#### 🎓 analysis and systems development Student/ Estudante Análise e Desenvolvimento de Sistemas.
 
 [![Contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-lino-903a0558/)
 
