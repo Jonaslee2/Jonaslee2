@@ -5,7 +5,7 @@
 #### 🎓 Analysis and Systems Development Student/ Estudante de Análise e Desenvolvimento de Sistemas.
 #### 🌐 Web programmer student/ Estudante de Programador Web
 
-[![Contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-lino-903a0558/)
+[![Contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jônatas-lino-903a0558/)
 
 
 ### Noções de programação:
